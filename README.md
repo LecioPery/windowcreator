@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # windowscreator
 
 ## Project setup
@@ -27,3 +28,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# windowcreator
+>>>>>>> 60338176224cb58898044f29ee72459f08ddd298
